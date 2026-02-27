@@ -1,0 +1,11 @@
+# Игнорируем всё по умолчанию
+**
+
+# Разрешаем только необходимые файлы
+!converter.py
+!requirements.txt
+!Dockerfile
+!docker-compose.yaml
+!entrypoint.sh
+!.dockerignore
+!README.md
